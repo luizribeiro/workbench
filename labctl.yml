@@ -1,0 +1,9 @@
+---
+devices:
+  - name: "zup-6-132"
+    type: psu
+    driver: labctl.hw.tdklambda.psu.ZUP
+    args:
+      port: "/dev/ttyUSB0"
+      baudrate: 9600
+      address: 1

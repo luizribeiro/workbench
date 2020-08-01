@@ -1,0 +1,2 @@
+[packages]
+labctl = {editable = true, git = "https://github.com/luizribeiro/labctl.git", ref = "master"}
