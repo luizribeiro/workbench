@@ -5,8 +5,8 @@ An example workbench for [`labctl`](https://github.com/luizribeiro/labctl)
 ## Setup
 
 ```
-git clone https://github.com/luizribeiro/labctl
-cd labctl
+git clone https://github.com/luizribeiro/workbench
+cd workbench
 pipenv install
 ```
 
