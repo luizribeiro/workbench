@@ -1,2 +1,5 @@
+[requires]
+python_version = '3.8'
+
 [packages]
 labctl = {editable = true, git = "https://github.com/luizribeiro/labctl.git", ref = "master"}
