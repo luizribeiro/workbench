@@ -17,7 +17,7 @@
         "labctl": {
             "editable": true,
             "git": "https://github.com/luizribeiro/labctl.git",
-            "ref": "90944df92df8b12a3eedd9a0c7eed84db5c864d5"
+            "ref": "8344a9ebc0d1ddf26bd1c97b9943e8dc12d79840"
         },
         "mypy-extensions": {
             "hashes": [
