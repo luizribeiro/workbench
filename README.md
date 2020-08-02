@@ -23,3 +23,14 @@ as:
 ```
 labctl devices
 ```
+
+## Experiments
+
+### noop
+
+This is a "noop" (no operation) experiment. You can run it without any
+hardware.
+
+```
+labctl run sequences/noop.yml
+```
