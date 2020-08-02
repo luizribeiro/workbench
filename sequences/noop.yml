@@ -1,0 +1,6 @@
+---
+sequence:
+  - experiment_type: experiments.noop.NoopExperiment
+  - experiment_type: experiments.noop.NoopExperiment
+  - experiment_type: experiments.noop.NoopExperiment
+  - experiment_type: experiments.noop.NoopExperiment
