@@ -1,6 +1,6 @@
 # luizribeiro/workbench
 
-An example workbench for [`labctl`](https://github.com/luizribeiro/labctl)
+An example workbench for [`labby`](https://github.com/luizribeiro/labby)
 
 ## Setup
 
@@ -17,11 +17,11 @@ First make sure you're in the workbench virtual environment:
 pipenv shell
 ```
 
-Once you're done with that, you can simply run any `labctl` command, such
+Once you're done with that, you can simply run any `labby` command, such
 as:
 
 ```
-labctl devices
+labby devices
 ```
 
 ## Experiments
@@ -32,5 +32,5 @@ This is a "noop" (no operation) experiment. You can run it without any
 hardware.
 
 ```
-labctl run sequences/noop.yml
+labby run sequences/noop.yml
 ```

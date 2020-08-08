@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9cd019e176644bd89dfceac5d0a78c35b4e4bdf9db1f9e905ec290067b26fe22"
+            "sha256": "a66707d6870a87923bd4c2c506691710d816bdc0724893f733e2db82420d346c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,10 +16,10 @@
         ]
     },
     "default": {
-        "labctl": {
+        "labby": {
             "editable": true,
-            "git": "https://github.com/luizribeiro/labctl.git",
-            "ref": "dd6bf97f12ea196e4625ae636f00450d606a8df1"
+            "git": "https://github.com/luizribeiro/labby.git",
+            "ref": "683612e45bc352b1137b98113b75de56649b579b"
         },
         "mypy-extensions": {
             "hashes": [
@@ -146,9 +146,9 @@
         },
         "strictyaml": {
             "hashes": [
-                "sha256:dd687a32577e0b832619ce0552eac86d6afad5fa7b61ab041bb765881c6a1f36"
+                "sha256:35eb801732ded9ebd3de429c4fea2e05690947fb2f96cffb9989c4d7c423105d"
             ],
-            "version": "==1.0.6"
+            "version": "==1.0.7"
         },
         "typed-argument-parser": {
             "hashes": [

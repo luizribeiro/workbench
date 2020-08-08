@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from labctl.experiment import (
+from labby.experiment import (
     BaseInputParameters,
     BaseOutputData,
     Experiment,

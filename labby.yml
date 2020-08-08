@@ -2,7 +2,7 @@
 devices:
   - name: "zup-6-132"
     type: power_supply
-    driver: labctl.hw.tdklambda.power_supply.ZUP
+    driver: labby.hw.tdklambda.power_supply.ZUP
     args:
       port: "/dev/ttyUSB0"
       baudrate: 9600
