@@ -19,7 +19,7 @@
         "labby": {
             "editable": true,
             "git": "https://github.com/luizribeiro/labby.git",
-            "ref": "683612e45bc352b1137b98113b75de56649b579b"
+            "ref": "ebe7ff7b39a2a25900f2a66a35cfeaeff65dbcd7"
         },
         "mypy-extensions": {
             "hashes": [
@@ -81,6 +81,13 @@
             ],
             "markers": "python_full_version >= '3.6.1'",
             "version": "==1.1.0"
+        },
+        "pyre-extensions": {
+            "hashes": [
+                "sha256:60e0411e91ecbeaf1fd5d8851ffce42baf6a74ec7ccd01db545c7a97f15aac30",
+                "sha256:e6ad1facef54c982d9c0d9780b1aee9faf5cf53b3c7860a087062a206d1598c8"
+            ],
+            "version": "==0.0.18"
         },
         "pyserial": {
             "hashes": [
