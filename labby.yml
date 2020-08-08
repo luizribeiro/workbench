@@ -1,5 +1,10 @@
 ---
 devices:
+  - name: "virtual-psu"
+    type: power_supply
+    driver: labby.hw.virtual.power_supply.PowerSupply
+    args:
+      load_in_ohms: 5
   - name: "zup-6-132"
     type: power_supply
     driver: labby.hw.tdklambda.power_supply.ZUP
