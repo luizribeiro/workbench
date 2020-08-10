@@ -19,7 +19,7 @@
         "labby": {
             "editable": true,
             "git": "https://github.com/luizribeiro/labby.git",
-            "ref": "ebe7ff7b39a2a25900f2a66a35cfeaeff65dbcd7"
+            "ref": "847df3097b546d03f0eab5eb409151e26a7a6aa7"
         },
         "mypy-extensions": {
             "hashes": [
