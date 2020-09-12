@@ -1,4 +1,4 @@
-# luizribeiro/workbench
+# 🧰 luizribeiro/workbench
 
 An example workbench for [`labby`](https://github.com/luizribeiro/labby)
 
