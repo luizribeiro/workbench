@@ -1,5 +1,0 @@
-[requires]
-python_version = '3.8'
-
-[packages]
-labby = {editable = true, git = "https://github.com/luizribeiro/labby.git", ref = "master"}
