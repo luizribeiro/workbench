@@ -245,9 +245,9 @@ python-versions = "*"
 version = "0.8.0"
 
 [metadata]
-content-hash = "5dfd2d7b4985a4243c69ffb98edb6f13348905ba6c26da7124e62d1f9f57615a"
+content-hash = "9c536e7a01f2a4ee9e39620e1655c1fd0c0b0b7a5c1574ddc1d92f6a9c806b66"
 lock-version = "1.0"
-python-versions = "^3.8"
+python-versions = "^3.7"
 
 [metadata.files]
 cffi = [

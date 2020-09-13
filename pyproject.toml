@@ -7,7 +7,7 @@ authors = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 labby = { git = "https://github.com/luizribeiro/labby.git", branch = "master" }
 
 [build-system]
